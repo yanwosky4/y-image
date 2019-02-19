@@ -2,6 +2,11 @@
 
 > web端图片加载库 - 根据不同状态(加载中，成功， 失败),加载不同图片
 
+## 源码地址
+github源码地址: https://github.com/yanwosky4/y-image
+npm地址: https://www.npmjs.com/package/y-image
+csdn博客地址: https://blog.csdn.net/sinat_20623345/article/details/87740884
+
 ## 效果
 <img src="http://test.xfcampus.com/files/abcef/image/file/media/doc/QQ20190219-173739_20190219173854280.gif" width="200" height="200" />
 
