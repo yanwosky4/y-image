@@ -1,6 +1,6 @@
 {
   "name": "y-image",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A powerful Image downloading and caching library",
   "main": "dist/yimage.js",
   "private": false,
