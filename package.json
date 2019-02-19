@@ -1,0 +1,21 @@
+{
+  "name": "y-image",
+  "version": "0.1.5",
+  "description": "A powerful Image downloading and caching library",
+  "main": "dist/yimage.js",
+  "private": false,
+  "scripts": {
+    "build": "rm -rf dist && rollup -c"
+  },
+  "author": "yanwosky4 <yanwosky4@gmail.com>",
+  "keywords": [
+    "y-image", "yimage", "img"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.0.0"
+  }
+}
