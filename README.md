@@ -4,6 +4,7 @@
 
 ## 效果
 <img src="http://test.xfcampus.com/files/abcef/image/file/media/doc/QQ20190219-173739_20190219173854280.gif" width="200" height="200" />
+![加载图片](http://test.xfcampus.com/files/abcef/image/file/media/doc/QQ20190219-173739_20190219173854280.gif "加载图片0")
 
 ## 安装
 
