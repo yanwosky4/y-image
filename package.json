@@ -1,6 +1,6 @@
 {
   "name": "y-image",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A powerful Image downloading and caching library",
   "main": "dist/yimage.js",
   "private": false,
@@ -11,6 +11,10 @@
   "keywords": [
     "y-image", "yimage", "img"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanwosky4/y-image.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.3.3",
